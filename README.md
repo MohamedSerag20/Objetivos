@@ -1,17 +1,10 @@
-# my_duties
+# Goal Sorter App
 
-A new Flutter project.
+This mobile app, built using Flutter, Dart, and Firebase, is designed to help you effectively manage and prioritize your goals. The app allows you to sort your goals based on their priority and assign them to specific categories. 
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Objetivos
+- Goal Sorting: Easily prioritize your goals by assigning them a priority level.
+- Categorization: Organize your goals by assigning them to specific categories.
+- Hierarchical Display: The app displays your goals in a hierarchical structure, providing a clear overview of your goals.
+- Goal Details: Each goal is accompanied by a brief description, allowing you to track and manage your progress effectively.
